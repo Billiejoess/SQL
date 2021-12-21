@@ -82,5 +82,5 @@ name LIKE '%e%' AND
 name LIKE '%i%' AND
 name LIKE '%o%' AND
 name LIKE '%u%' AND 
-name NOT LIKE '% %';
+name NOT LIKE '% %';  
 
